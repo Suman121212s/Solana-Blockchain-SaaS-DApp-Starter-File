@@ -30,11 +30,11 @@ Next.js, Tailwind CSS, JavaScript, Solana Wallet Adapter, @solana/web3.js, React
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-blockchain-saas-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/LCnqkzm8lGU?si=T4WomBvzM732gBrK)
 
 #### Deploying Dapp
 
@@ -46,8 +46,8 @@ Kindly follow the following Instructions to run the project in your system and i
 
 ```
   WATCH: Setup & Demo Of Project
-  Code:
-  URL:
+  Code: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-blockchain-saas-dapp
+  URL: https://youtu.be/LCnqkzm8lGU?si=T4WomBvzM732gBrK
 ```
 
 #### Install Vs Code Editor
@@ -83,15 +83,15 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  Video:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-blockchain-saas-dapp
+  Video: https://youtu.be/LCnqkzm8lGU?si=T4WomBvzM732gBrK
 ```
 
 #### Final Source Code
 
 ```
   Download the Final Source Code
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-blockchain-saas-dapp
 ```
 
 #### Install Vs Code Editor
